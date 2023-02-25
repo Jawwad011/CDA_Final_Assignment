@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 
 
-data=pd.read_csv(r"C:\Users\SAAD COMMUNICATION\Desktop\athlete_events.csv")
+data=pd.read_csv("athlete_events.csv")
 
 ## Using Interpolate method() for filling the null values
 
